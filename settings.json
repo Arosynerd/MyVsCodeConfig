@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.embeddedhtml": "html",
+        "app_remote.h": "c",
+        "app_oled.h": "c",
+        "device_oled.h": "c"
+    },
+    "C_Cpp.intelliSenseEngine": "default",
+    "outline.showVariables": false,
+    "outline.showConstants": false,
+    "workbench.editor.showTabs": "none"
+}
