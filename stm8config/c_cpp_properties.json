@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/platform/lib/STM8L15x_StdPeriph_Driver/**",
+                "${workspaceFolder}/device/device_tft/**",
+                "${workspaceFolder}/device/device_cc1101/**",
+                "${workspaceFolder}/device/device_rf24/**",
+                "${workspaceFolder}/device/device_oled/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "_IAR_",
+                "STM8L15X_MD",
+                "__ICCSTM8__"
+            ],
+            "compilerPath": "",
+            "intelliSenseMode": "gcc-arm",
+            "cStandard": "c99",
+            "cppStandard": "c++98",
+            "compilerArgs": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
+
+
+
